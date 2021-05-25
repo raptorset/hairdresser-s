@@ -30,7 +30,7 @@ The overall project structure is shown below:
     Objects used to query the application
 ````
 
-![alt text](https://github.com/manu-tae/zemg-challenge/blob/master/test-documents/the-screenplay-pattern.png)
+![alt text](https://github.com/pepiautomation/zmg-screenplay/blob/master/test-documents/the-screenplay-pattern.png)
 
 
 ## Get Started
