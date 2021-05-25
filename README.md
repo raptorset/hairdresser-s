@@ -47,7 +47,7 @@ graddle aggregate
 
 ## Environment variable versions 
 
-To run the project you'll need JDK 1.8 and gradle installed.
+To run the project you'll need JDK > 11 and gradle installed.
 
 [environment](https://docs.google.com/spreadsheets/d/15LFvjW0JLvxwEvqR8Q_YIma_mr9YBVkpiD1o5GKcDp4/edit#gid=4)
 
