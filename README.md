@@ -2,15 +2,11 @@
 
 This is a serenity project
 By default the tests run on Chrome
-###### go to Documents
-[testDocuments](https://github.com/manu-tae/zemg-challenge/tree/master/test-documents)
 
 ## Gherkin
 
 S-bdd 
 To run it, execute:
-
-
 
 The overall project structure is shown below:
 ````
