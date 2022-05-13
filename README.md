@@ -1,4 +1,4 @@
-# zmg-challenge
+# hairdresser's
 
 This is a serenity project
 By default the tests run on Chrome
