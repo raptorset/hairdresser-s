@@ -5,7 +5,7 @@ By default the tests run on Chrome
 ###### go to Documents
 [testDocuments](https://github.com/manu-tae/zemg-challenge/tree/master/test-documents)
 
-## Serenity
+## Gherkin
 
 S-bdd 
 To run it, execute:
